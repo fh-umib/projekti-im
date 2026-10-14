@@ -69,3 +69,5 @@
 - **Spitalet publike janë të ngadalta për pilot:** Nisu me një klinikë private ose mjek familjar, ku vendimi merret më shpejt.
 
 **Një punë e përsosur:** Pacienti del nga spitali duke ditur saktësisht çfarë të bëjë.
+
+Hapi B: E pyeta AI-n si ta ndërtoj komponentin KartaKerkeses me type Props. Mbajta strukturën e Props (me union te statusi dhe afati? opsional) dhe përdorimin tri herë te index.tsx.
