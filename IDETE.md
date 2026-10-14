@@ -1,5 +1,22 @@
 # Tri idetë
 
+Secila ide në një fjali, pastaj hollësitë më poshtë.
+
+1. **Gjaku** (Rruga 3, startup): aplikacion që kërkesat urgjente për gjak nga Facebook-u dhe Viber-i i kthen në kërkesa të verifikuara, që arrijnë vetëm te dhuruesit e duhur afër spitalit.
+2. **Adresa** (Rruga 1, për veten): aplikacion që çdo shtëpie pa numër ose rrugë i jep një kod të shkurtër me foto, GPS dhe udhëzim me pika referimi, që ambulanca dhe kurierët ta gjejnë pa telefonata.
+3. **Epikriza** (Rruga 3, startup me institucion): aplikacion që udhëzimet e daljes nga spitali, pasi i miraton mjeku, i kthen në plan të qartë në shqip për pacientin, me kujtesa për ilaçet dhe kontrollin.
+
+---
+
+## Përdorimi i AI-së
+
+- **Hapi B:** E pyeta AI-n si ta ndërtoj komponentin KartaKerkeses me `type Props`. Mbajta strukturën e Props (me union te `statusi` dhe `afati?` opsional) dhe përdorimin tri herë te `index.tsx`.
+- **Hapi D:** E pyeta AI-n si ta ndryshoj statusin e kartës me prekje. Mbajta `useState` dhe `Pressable`.
+
+---
+
+# Hollësitë
+
 ## 1. Gjaku
 
 **Kërkesat urgjente për gjak nga Facebook-u kthehen në sistem të verifikuar.**
@@ -69,5 +86,3 @@
 - **Spitalet publike janë të ngadalta për pilot:** Nisu me një klinikë private ose mjek familjar, ku vendimi merret më shpejt.
 
 **Një punë e përsosur:** Pacienti del nga spitali duke ditur saktësisht çfarë të bëjë.
-
-Hapi B: E pyeta AI-n si ta ndërtoj komponentin KartaKerkeses me type Props. Mbajta strukturën e Props (me union te statusi dhe afati? opsional) dhe përdorimin tri herë te index.tsx.
